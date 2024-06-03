@@ -3,3 +3,13 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(../public/images/desktop-bg.png);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
