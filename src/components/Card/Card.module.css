@@ -1,0 +1,45 @@
+.card {
+    font-family: "Teko", sans-serif;
+    width: 300px;
+    background-color: hsl(39, 73%, 70%);
+    border-radius: 10px;
+    border: 2px solid hsl(30, 72%, 33%);
+}
+
+.card .fish {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(30, 72%, 33%);
+    color: hsl(39, 73%, 70%);
+    border: 1px solid hsl(39, 73%, 70%);
+    border-radius: 10px 10px 0 0;
+    font-weight: 700;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.card img {
+    width: 276px;
+    margin: 0 10px 10px 10px;
+    border: 1px solid hsl(246, 16%, 37%);
+}
+
+.card div {
+    display: flex;
+    justify-content: space-between;
+    color: hsl(30, 72%, 33%);
+    margin: 0 10px 10px 10px;
+    font-size: 18px;
+}
+
+.card .description {
+    background-color: hsl(38, 74%, 79%);
+    color: hsl(20, 24%, 27%);
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid hsl(0, 0%, 100%);
+    margin: 0 10px 10px 10px;
+    font-size: 18px;
+}
