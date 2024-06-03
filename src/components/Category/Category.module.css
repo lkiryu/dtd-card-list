@@ -1,0 +1,18 @@
+.category {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.category h2 {
+    font-family: "Inter", sans-serif;
+    color: hsl(47, 100%, 58%);
+}
+
+.category div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
