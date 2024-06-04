@@ -12,9 +12,10 @@
     color: hsl(47, 100%, 58%);
 }
 
-.category div{
+.category .cards{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
     gap: 20px;
+    justify-content: center;
+    align-items: center;
 }
