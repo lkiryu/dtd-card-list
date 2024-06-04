@@ -3,7 +3,7 @@
         "fish": "Clownfish",
         "src": "./images/Blue-Hole-Shallows/Clownfish.png",
         "size": "15cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "At about 15cm long, it lives among sea anemones in coral reefs or rocks, finding shelter when threatened during the night. Females of the species are larger than males.",
         "category": "Blue Hole Shallows"
     },
@@ -11,7 +11,7 @@
         "fish": "Comber",
         "src": "./images/Blue-Hole-Shallows/Comber.png",
         "size": "15cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Has a long body with a pointed snout. Typically grows to around 30 cm. Its brown to reddish orange body is covered in horizontal stripes.",
         "category": "Blue Hole Shallows"
     },
@@ -19,7 +19,7 @@
         "fish": "Cardinal Fish",
         "src": "./images/Blue-Hole-Shallows/Cardinal-Fish.png",
         "size": "6cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Usually found in shallow water near rocks. 5 to 20 cm long and features two finds on its back, a big mouth, and big eyes. Many varieties are red and ruddy in color.",
         "category": "Blue Hole Shallows"
     },
@@ -27,7 +27,7 @@
         "fish": "Sea Goldie",
         "src": "./images/Blue-Hole-Shallows/Sea-Goldie.png",
         "size": "20cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The male has a purple square outlined on its side and a long dorsal fin. It can be yellow to orange in color and has two purple stripes that connect its cheeks to its stomach.",
         "category": "Blue Hole Shallows"
     },
@@ -35,7 +35,7 @@
         "fish": "Pyramid Butterflyfish",
         "src": "./images/Blue-Hole-Shallows/Pyramid-Butterflyfish.png",
         "size": "18cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Has a large white triangle outlined on its body that connects its tail fin, ventral fin, and pectoral fin. The rest of its body is yellow.",
         "category": "Blue Hole Shallows"
     },
@@ -43,7 +43,7 @@
         "fish": "Yellow Tang",
         "src": "./images/Blue-Hole-Shallows/Yellow-Tang.png",
         "size": "20cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "A herbivorous saltwater fish known for its vivid yellow coloring. Feeds on algae and sometimes eats moss and other parasites clinging to the skin of large marine creatures.",
         "category": "Blue Hole Shallows"
     },
@@ -51,7 +51,7 @@
         "fish": "Salema Porgy",
         "src": "./images/Blue-Hole-Shallows/Salema-Porgy.png",
         "size": "30cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Has a greyish-blue body with several horizontal stripes that appear to be connected to yellow or grey spots in the center of each scale. Its ventral fin and cloacal fin are yellow.",
         "category": "Blue Hole Shallows"
     },
@@ -59,7 +59,7 @@
         "fish": "Orbicular Batfish",
         "src": "./images/Blue-Hole-Shallows/Orbicular-Batfish.png",
         "size": "6cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Has a very thin, disk-like body, with bow-like ventral and stomach fins. Its fan-shaped tail accounts for a fifth of its body length.",
         "category": "Blue Hole Shallows"
     },
@@ -67,7 +67,7 @@
         "fish": "Blue Tang",
         "src": "./images/Blue-Hole-Shallows/Blue-Tang.png",
         "size": "30cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Lives in groups in coral reefs and is used to clear waters and strong currents. Many fish owners covet the blue tang, as it's one of the most popular aquarium fish.",
         "category": "Blue Hole Shallows"
     },
@@ -75,7 +75,7 @@
         "fish": "Rainbow Wrasse",
         "src": "./images/Blue-Hole-Shallows/Rainbow-Wrasse.png",
         "size": "20cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Tends to be small in size and has a spindle-shaped body. Like many of its family, it goes through many color changes in its lifetime. Males have a greenish back and a yellow belly.",
         "category": "Blue Hole Shallows"
     },
@@ -83,7 +83,7 @@
         "fish": "Lagoon Triggerfish",
         "src": "./images/Blue-Hole-Shallows/Lagoon-Triggerfish.png",
         "size": "30cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The colorful mosaic patterns formed by its scales has earned it the nickname Picassofish. Has a spotted snout and three to five large scales behind its gills.",
         "category": "Blue Hole Shallows"
     },
@@ -91,7 +91,7 @@
         "fish": "Small Spotted Dart",
         "src": "./images/Blue-Hole-Shallows/Small-Spotted-Dart.png",
         "size": "60cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Once it reaches about 15 cm in length, one to five black spots begin to appear on its side. As the dart gets older, more spots appear.",
         "category": "Blue Hole Shallows"
     },
@@ -99,7 +99,7 @@
         "fish": "Yellowback Fusilier",
         "src": "./images/Blue-Hole-Shallows/Yellowback-Fusilier.png",
         "size": "40cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Its dorsal fin is yellow in its youth. As it ages, the yellow parts of its body disappear and blue becomes its dominant color.",
         "category": "Blue Hole Shallows"
     },
@@ -107,7 +107,7 @@
         "fish": "Ornate Wrasse",
         "src": "./images/Blue-Hole-Shallows/Ornate-Wrasse.png",
         "size": "20cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Ranges from 20 cm to 25 cm in length and lives in subtropical waters between 18 and 22 degrees Celsius, usually 1 to 50 meters deep. Typically found living alone in coastal algae or rocky areas, but may sometimes form small colonies.",
         "category": "Blue Hole Shallows"
     },
@@ -115,7 +115,7 @@
         "fish": "Longfin Batfish",
         "src": "./images/Blue-Hole-Shallows/Longfin-Batfish.png",
         "size": "60cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Has an extremely wide and flat body with a tiny mouth that contains rows of even tinier conical teeth on each jaw. The edges of its bony skull crest are soft.",
         "category": "Blue Hole Shallows"
     },
@@ -123,7 +123,7 @@
         "fish": "Mediterranean Parrotfish",
         "src": "./images/Blue-Hole-Shallows/Mediterranean-Parrotfish.png",
         "size": "50cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Found in warm waters and near rocky coral reefs, where they usually eat algae and coral, but sometimes also eat small invertebrates. The females are red with yellow stripes.",
         "category": "Blue Hole Shallows"
     },
@@ -131,7 +131,7 @@
         "fish": "Redtoothed Triggerfish",
         "src": "./images/Blue-Hole-Shallows/Redtoothed-Triggerfish.png",
         "size": "50cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Has a blue body and two protruding fang-like red teeth. It's often called the 'vampire triggerfish' for its resemblance to the mythical bloodsucking creature. Despite its nickname, it's relatively docile for a triggerfish.",
         "category": "Blue Hole Shallows"
     },
@@ -139,7 +139,7 @@
         "fish": "Black and White Snapper",
         "src": "./images/Blue-Hole-Shallows/Black-and-White-Snapper.png",
         "size": "35cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "An aggressive carnivore with black eyes and fins.",
         "category": "Blue Hole Shallows"
     },
@@ -147,7 +147,7 @@
         "fish": "Green Humphead Parrotfish",
         "src": "./images/Blue-Hole-Shallows/Green-Humphead-Parrotfish.png",
         "size": "150cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The largest fish that lives in coral reefs. Grows up to 150 cm long and can weigh more than 75 kg. With its powerful beak-like mouth, it breaks apart and eats coral.",
         "category": "Blue Hole Shallows"
     },
@@ -155,7 +155,7 @@
         "fish": "Barrel Jellyfish",
         "src": "./images/Blue-Hole-Shallows/Barrel-Jellyfish.png",
         "size": "80cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "A large, cylindrical jellyfish shaped like a giant mushroom or bell. Has eight wrinkled tentacles. A favorite food of the world's largest sea turtle, the leatherback.",
         "category": "Blue Hole Shallows"
     },
@@ -163,7 +163,7 @@
         "fish": "Fried Egg Jellyfish",
         "src": "./images/Blue-Hole-Shallows/Fried-Egg-Jellyfish.png",
         "size": "30cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Generally less than 17 cm wide, but can grow up to 40 cm in diameter. As its name suggests, they resemble a fried egg. The most common jellyfish in the Mediterranean Sea.",
         "category": "Blue Hole Shallows"
     },
@@ -171,7 +171,7 @@
         "fish": "Whitetip reefshark",
         "src": "./images/Blue-Hole-Shallows/Whitetip-reefshark.png",
         "size": "210cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "A slim, medium-sized shark characterized by its white-tipped dorsal and tail fins. It is an agile swimmer well suited for its mostly reef habitat existence.",
         "category": "Blue Hole Shallows"
     },
@@ -179,7 +179,7 @@
         "fish": "Starry Puffer",
         "src": "./images/Blue-Hole-Shallows/Starry-Puffer.png",
         "size": "80cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Oval-shaped with a relatively long and thin body. Has spines instead of scales. Its dorsal fin and cloacal fin are small, symmetrical, and can be found at the rear of its body.",
         "category": "Blue Hole Shallows"
     },
@@ -187,7 +187,7 @@
         "fish": "Red Lionfish",
         "src": "./images/Blue-Hole-Shallows/Red-Lionfish.png",
         "size": "38cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "A fish measured at around 47cm with many poisonous spines resembling the name of a lion and patterns similar to that of a zebra.",
         "category": "Blue Hole Shallows"
     },
@@ -195,7 +195,7 @@
         "fish": "Titan Triggerfish",
         "src": "./images/Blue-Hole-Shallows/Titan-Triggerfish.png",
         "size": "70cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "A huge triggerfish measured at around 75cm with a yellow body, dark spots around its eyes, and sharp teeth. It is found in coral reefs and steep surfaces of submerged rocks and feeds,[sic] on coral, sea urchins, and so on.",
         "category": "Blue Hole Shallows"
     },
@@ -203,7 +203,7 @@
         "fish": "Bluefin Tuna",
         "src": "./images/Blue-Hole-Shallows/Bluefin-Tuna.png",
         "size": "250cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "A member of Scombridae, the bluefin tuna is the most common ingredient of tuna sashimi. It can swim up to a speed of 70-90 km/h and will suffocate if it stays in place.",
         "category": "Blue Hole Shallows"
     },
@@ -211,7 +211,7 @@
         "fish": "Yellowfin Tuna",
         "src": "./images/Blue-Hole-Shallows/Yellowfin-Tuna.png",
         "size": "150cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The yellowfin tuna has yellow fins. It spawns all year long and it takes approximately 2 years for a yellowfish tuna to become an adult.",
         "category": "Blue Hole Shallows"
     },
@@ -219,7 +219,7 @@
         "fish": "Flame Angelfish",
         "src": "./images/Blue-Hole-Shallows/Flame-Angelfish.png",
         "size": "15cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "It's body is mainly bright red and orange, but has a bluish part at the end of the anal fin.",
         "category": "Blue Hole Shallows"
     },
@@ -227,7 +227,7 @@
         "fish": "Sheephead",
         "src": "./images/Blue-Hole-Shallows/Sheephead.png",
         "size": "150cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "It has as high forehead that resembles a lump. With its sharp teeth, it mainly feeds on crustaceans.",
         "category": "Blue Hole Shallows"
     },
@@ -235,7 +235,7 @@
         "fish": "Emperor Angelfish",
         "src": "./images/Blue-Hole-Shallows/Emperor-Angelfish.png",
         "size": "40cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "White and blue in color in its juvenile period, but it develops into another color as it becomes an adult. It rarely mingles with other fish, preferring to stay alone.",
         "category": "Blue Hole Shallows"
     },
@@ -243,7 +243,7 @@
         "fish": "Stingray",
         "src": "./images/Blue-Hole-Shallows/Stingray.png",
         "size": "100cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "It is mainly found in shallow waters of 10 m below surface or river estuaries in the West Pacific. A sawtooth-shaped spine on its tail holds deadly poison that can cause humans to pass out or even die when they are stung.",
         "category": "Blue Hole Shallows"
     },
@@ -251,7 +251,7 @@
         "fish": "Marbled Electric Ray",
         "src": "./images/Blue-Hole-Shallows/Marbled-Electric-Ray.png",
         "size": "80cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "An electric stringray found from the Eastern Atlantic to South Africa. Mainly nocturnal and hides in the ground, then emits 70-80V of electricity when hunting prey.",
         "category": "Blue Hole Shallows"
     },
@@ -259,7 +259,7 @@
         "fish": "Whiteleg Shrimp",
         "src": "./images/Blue-Hole-Shallows/Whiteleg-Shrimp.png",
         "size": "8cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "A species of kuruma prawn that grows to a maximum length of 20 cm. Commonly farmed for food, it is popular thanks to its taste and affordability.",
         "category": "Blue Hole Shallows"
     },
@@ -267,7 +267,7 @@
         "fish": "Striped Catfish",
         "src": "./images/Blue-Hole-Shallows/Striped-Catfish.png",
         "size": "30cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "This fish is about 20 to 30cm long and has 4 pairs of whiskers around its mouth. It tends to move around in groups.",
         "category": "Blue Hole Shallows"
     },
@@ -275,7 +275,7 @@
         "fish": "Purple Sea Urchin",
         "src": "./images/Blue-Hole-Shallows/Purple-Sea-Urchin.png",
         "size": "20cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Spiny purple sea urchin. Used as a food ingredient.",
         "category": "Blue Hole Shallows"
     },
@@ -283,7 +283,7 @@
         "fish": "Shortfin Mako",
         "src": "./images/Blue-Hole-Shallows/Shortfin-Mako.png",
         "size": "270cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The shortfin mako is a large shark with big black eyes and sharp snout. It inhabits tropical and temperate oceans at depths of 0-50 meters.",
         "category": "Blue Hole Shallows"
     },
@@ -291,7 +291,7 @@
         "fish": "Marlin",
         "src": "./images/Blue-Hole-Shallows/Marlin.png",
         "size": "230cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The marlin is a fast and very violent swimmer that can swim up to a speed of 100 km/h. It swings its spear-like upper jaw to hit or slash its prey.",
         "category": "Blue Hole Shallows"
     },
@@ -299,7 +299,7 @@
         "fish": "Thresher Shark",
         "src": "./images/Blue-Hole-Shallows/Thresher-Shark.png",
         "size": "320cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The thresher shark has a caudal fin that is longer than its body. It uses this long fin as a whip to stun a shoal of small fish.",
         "category": "Blue Hole Shallows"
     },
@@ -307,7 +307,7 @@
         "fish": "Baby Humpback Whale",
         "src": "./images/Blue-Hole-Shallows/Baby-Humpback-Whale.png",
         "size": "550cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "This whale is about 15 m long, and traverses distance of thousands of kilometers depending on the season. It is characterized by a lump on the head and jaw. Its lifespan is approximately 50 to 100 years.",
         "category": "Blue Hole Shallows"
     },
@@ -315,7 +315,7 @@
         "fish": "Pink Dolphin",
         "src": "./images/Blue-Hole-Shallows/Pink-Dolphin.png",
         "size": "450cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "Part of the dolphin family. Appears to have a pink skin from lack of pigment, due to being albino. Although its colors are different it gets along well with its pod of fellow dolphins.",
         "category": "Blue Hole Shallows"
     },
@@ -323,7 +323,7 @@
         "fish": "Loggerhead Turtle",
         "src": "./images/Blue-Hole-Shallows/Loggerhead-Turtle.png",
         "size": "350cm",
-        "location": "0m-50m",
+        "location": "0-50m",
         "description": "The largest of the hard-backed sea turtles. Weighs up to 364 kg and reaches up to 1.1 meters long. Aside from laying its eggs, it rarely comes ashore.",
         "category": "Blue Hole Shallows"
     },
@@ -688,11 +688,131 @@
         "category": "Blue Hole Depths"
     },
     {
+        "fish": "Clearfin Lionfish",
+        "src": "./images/Nocturnal/Clearfin-Lionfish.png",
+        "size": "25cm",
+        "location": "0-50cm",
+        "description": "A nocturnal species that primarily hunts crabs and shrimps. It has 12 to 13 long venomous spines on its dorsal fin, and unlike the lionfish, it lacks stripes on its spines.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Longspine Squirrelfish",
+        "src": "./images/Nocturnal/Longspine-Squirrelfish.png",
+        "size": "20cm",
+        "location": "0-50cm",
+        "description": "A pelagic species that forms schools and is found in the Indian-Pacific region and near tropical areas. It primarily inhabits coastal rocky areas and mainly feeds on crustaceans.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Longspine Porcupinefish",
+        "src": "./images/Nocturnal/Longspine-Porcupinefish.png",
+        "size": "60cm",
+        "location": "0-50cm",
+        "description": "Inhabits coral reefs in tropical and subtropical oceans around the world, and can grow up to 60cm. It secretes powerful toxin substances from its spines to protect itself.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Box Jellyfish",
+        "src": "./images/Nocturnal/Box-Jellyfish.png",
+        "size": "100cm",
+        "location": "0-50cm",
+        "description": "This jellyfish is actually not classified as a jellyfish. It has a poison so strong that it's referred to as a 'sea wasp.' It has eyes and will sometimes chase after prey.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Moray Eel",
+        "src": "./images/Nocturnal/Moray-Eel.png",
+        "size": "100cm",
+        "location": "0-50cm",
+        "description": "Has a long, slender body with a wide, thin tail. Its entire body is covered with a thick, scale-less, armor-like hide. Most of its body can hide between rocks, with its head barely peeking out, on the lookout for prey.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Blacktip Reefshark",
+        "src": "./images/Nocturnal/Blacktip-Reefshark.png",
+        "size": "150cm",
+        "location": "0-50cm",
+        "description": "The blacktip reefshark has clear black spotting and its fins and snout. It dwells at shallow depths and sometimes hunts in groups.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Copper Shark",
+        "src": "./images/Nocturnal/Copper-Shark.png",
+        "size": "230cm",
+        "location": "0-50cm",
+        "description": "The copper shark is one of the most common man-eating sharks with a long, round snout. It grows up to 3m and is found in the Pacific and Indian Oceans.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Zebra Shark",
+        "src": "./images/Nocturnal/Zebra-Shark.png",
+        "size": "240cm",
+        "location": "0-50cm",
+        "description": "The zebra shark has zebra-like stripes when it is young but they become spots as it grows. This nocturnal shark can commonly be found in the tropical Indo-Pacific region at depths of 0-60 meters.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "White Shrimp",
+        "src": "./images/Nocturnal/White-Shrimp.png",
+        "size": "8cm",
+        "location": "0-130cm",
+        "description": "The white shrimp has a light grey body and a pair of long antennae. An adult white shrimp may be as long as 10 cm in length (or even longer). It is commonly found in the coastal areas of the Gulf of Mexico and the South Atlantic Ocean.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Blackfin Barracuda",
+        "src": "./images/Nocturnal/Blackfin-Barracuda.png",
+        "size": "140cm",
+        "location": "50-130cm",
+        "description": "Has around 20 gleaming stripes that stretch from its back to below its lateral line. The top half of each stripe is slanted, with the lower half of each stripe becoming perpendicular to the body. Its dark caudal fin has a black rear edge.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Spear Squid",
+        "src": "./images/Nocturnal/Spear-Squid.png",
+        "size": "20cm",
+        "location": "50-130cm",
+        "description": "A carnivorous mollusk with an elongated cone shape. The legs are usually in the pouch and extend when catching prey.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Humboldt Squid",
+        "src": "./images/Nocturnal/Humboldt-Squid.png",
+        "size": "220cm",
+        "location": "50-130cm",
+        "description": "The Humboldt squid inhabits the Pacific Coast. It can grow as big as 2 meters in length. Its suckers have sharp claws. This aggressive fish is known to prey on its own members.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Devil Scorpionfish",
+        "src": "./images/Nocturnal/Devil-Scorpionfish.png",
+        "size": "30cm",
+        "location": "50-130cm",
+        "description": "One of the most dangerous fish with its potent venom. Hiding in the environment, it quickly snatches anything that comes close to it.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Manta Ray",
+        "src": "./images/Nocturnal/Manta-Ray.png",
+        "size": "400cm",
+        "location": "0-50cm",
+        "description": "This is the largest species of stingray, and is a long-distance pelagic fish. Due to its gentle nature, it mainly feeds on plankton.",
+        "category": "Nocturnal"
+    },
+    {
+        "fish": "Red-Lipped Batfish",
+        "src": "./images/Nocturnal/Red-Lipped-Batfish.png",
+        "size": "40cm",
+        "location": "0-50cm",
+        "description": "This fish has red lips and lures prey by waggling its nose-like dorsal fin. It is not a good swimmer and is known to walk the bottom of the sea using its fins. If it has to swim, it will use the fins like the hind legs of a frog.",
+        "category": "Nocturnal"
+    },
+    {
         "fish": "",
-        "src": "./images/Blue-Hole-Depths/.png",
+        "src": "./images/Nocturnal/.png",
         "size": "",
-        "location": "130-250m",
+        "location": "0-50cm",
         "description": "",
-        "category": "Blue Hole Depths"
+        "category": "Nocturnal"
     }
 ]
