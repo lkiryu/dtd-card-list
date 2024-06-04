@@ -328,11 +328,219 @@
         "category": "Blue Hole Shallows"
     },
     {
+        "fish": "Bluehead Tilefish",
+        "src": "./images/Blue-Hole-Medium-Depth/Bluehead-Tilefish.png",
+        "size": "15cm",
+        "location": "50-150m",
+        "description": "A thin, long fish with a blue head, green body, and yellow tail. It is usually around 15cm long and lurks near coral reef inclines, coral debris, and so on.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Clown Frogfish",
+        "src": "./images/Blue-Hole-Medium-Depth/Clown-Frogfish.png",
+        "size": "15cm",
+        "location": "50-150m",
+        "description": "A fish measured at around 15cm, its skin is covered in spines and protuberances. It has a mouth that protrudes outward like a frog's. It will slowly change color to match its surroundings.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Painted Comber",
+        "src": "./images/Blue-Hole-Medium-Depth/Painted-Comber.png",
+        "size": "25cm",
+        "location": "50-150m",
+        "description": "A gray-colored fish with a thin body and sharp nose. About 25cm long, it has 5-7 vertical brown stripes and blue spots. It hides in rock caverns and feeds on cephalopods, clams, crustaceans, fish, and worms.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Bigeye Scad",
+        "src": "./images/Blue-Hole-Medium-Depth/Bigeye-Scad.png",
+        "size": "30cm",
+        "location": "50-150m",
+        "description": "A fish about 38cm long with a bluish green body, white belly, and large eyes. It belongs to family of Carangidae and can be found in schools in tropical waters.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Striped Red Mullet",
+        "src": "./images/Blue-Hole-Medium-Depth/Striped-Red-Mullet.png",
+        "size": "30cm",
+        "location": "50-150m",
+        "description": "A fish measured at around 30cm with a reddish brown and long body. It has a pair of feelers below its mouth. This species is found at 5-400m and feeds on insects or crustaceans on sandy sea bottoms.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Mackerel Scad",
+        "src": "./images/Blue-Hole-Medium-Depth/Mackerel-Scad.png",
+        "size": "40cm",
+        "location": "50-150m",
+        "description": "A fish with bluish-green fins, a white belly, and black spots above its gills. It has a long body and has been measured at around 46cm. It lives in groups at 20-200m in subtropical waters.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Harlequin Hind",
+        "src": "./images/Blue-Hole-Medium-Depth/Harlequin-Hind.png",
+        "size": "40cm",
+        "location": "50-150m",
+        "description": "This fish has a light green body and bright blue lateral stripes. It is found in caves at depths of 30-120m in waters off island coasts in the Indian and western Pacific Oceans and feeds on fish or crustaceans.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Bigeye Trevally",
+        "src": "./images/Blue-Hole-Medium-Depth/Bigeye-Trevally.png",
+        "size": "60cm",
+        "location": "50-150m",
+        "description": "An oblong fish with a bluish-green back, silver-white belly, and small spots on its gills. It is found at depths up to 100m in tropical and subtropical waters and feeds on small fish.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Coral Trout",
+        "src": "./images/Blue-Hole-Medium-Depth/Coral-Trout.png",
+        "size": "60cm",
+        "location": "50-150m",
+        "description": "A fish measured at around 60cm with a reddish-brown body and small blue spots. It is mainly found in warm coral reefs, where it will hide itself as it hunts other fish.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Grey Triggerfish",
+        "src": "./images/Blue-Hole-Medium-Depth/Grey-Triggerfish.png",
+        "size": "50cm",
+        "location": "50-150m",
+        "description": "A triggerfish measured at around 44cm, with a light gray body and broad, black vertical stripes. It has thick lips and sharp teeth. Usually found among corals and on rocky bottoms at depths less than 55m, it feeds on invertebrates.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Atlantic Bonito",
+        "src": "./images/Blue-Hole-Medium-Depth/Atlantic-Bonito.png",
+        "size": "75cm",
+        "location": "50-150m",
+        "description": "A fish with a silver body, a bluish-green dorsal fin, and diagonal stripes on its back. It has been measured at around 75cm, lives in groups in shallow waters, and feeds on fish and squid.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "White Trevally",
+        "src": "./images/Blue-Hole-Medium-Depth/White-Trevally.png",
+        "size": "60cm",
+        "location": "50-150m",
+        "description": "A fish with a yellow body, yellow fins, and dark spots above its gills. It is around 30cm long. It can be found in most oceans and feeds on plankton and underwater invertebrates.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Cuttlefish",
+        "src": "./images/Blue-Hole-Medium-Depth/Cuttlefish.png",
+        "size": "25cm",
+        "location": "50-150m",
+        "description": "A mollusk with an egg-shaped body, wrinkled fins, eight arms and two long tentacles, and a unique internal shell called the cuttlebone. It feeds on sea creatures like shrimps, crabs, clams and can spout ink.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Dusky Grouper",
+        "src": "./images/Blue-Hole-Medium-Depth/Dusky-Grouper.png",
+        "size": "120cm",
+        "location": "50-150m",
+        "description": "A fish with a dark reddish brown body and irregular yellow and silver spots. It is around 90cm long. Found at depths less than 300m around submerged rocks, it has a broad mouth and protruding jaw.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Atlantic Mackerel",
+        "src": "./images/Blue-Hole-Medium-Depth/Atlantic-Mackerel.png",
+        "size": "65cm",
+        "location": "50-150m",
+        "description": "A fish with a long, sharp snout, a long, spindle-shaped silver-white body, a blue back, and vertical stripes resembling black ripples. Measured at 30-60cm, it can be found at around 200m in cold waters.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Giant Trevally",
+        "src": "./images/Blue-Hole-Medium-Depth/Giant-Trevally.png",
+        "size": "150cm",
+        "location": "50-150m",
+        "description": "A huge trevally with a silver body and many small black spots all over its body. It has been measured at 150cm, is found in broad areas of tropical and subtropical oceans, and feeds on other fish, cephalopods, or crustaceans.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "White Spotted Jellyfish",
+        "src": "./images/Blue-Hole-Medium-Depth/White-Spotted-Jellyfish.png",
+        "size": "50cm",
+        "location": "50-150m",
+        "description": "A jellyfish sized at around 50cm, it has a round and slightly flat bell and small reflective areas that resemble white spots. It lives in the western Pacific between Australia and Japan and has a weak poisonous sting.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Tiger Shark",
+        "src": "./images/Blue-Hole-Medium-Depth/Tiger-Shark.png",
+        "size": "650cm",
+        "location": "50-150m",
+        "description": "A shark 3-4m long with blue skin, a white belly, and stripes on its body. Usually found at approximately 350m in tropical and subtropical oceans. It will eat anything it can find.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Great Barracuda",
+        "src": "./images/Blue-Hole-Medium-Depth/Great-Barracuda.png",
+        "size": "170cm",
+        "location": "50-150m",
+        "description": "A fish with a bluish gray back with a cross-bar pattern on it and a silver-white belly with black spots. Measured at 50-100cm, it can be found in coral reefs at depths up to 110m and hunts fish and cephalopods with its sharp teeth.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Narrow-Barred Spanish Mackerel",
+        "src": "./images/Blue-Hole-Medium-Depth/Narrow-Barred-Spanish-Mackerel.png",
+        "size": "90cm",
+        "location": "50-150m",
+        "description": "A type of mackerel with a clear blue body, a silver and bluish-gray belly, and vertical spots on its sides. It grows up to 200cm and mainly feeds on shrimp, squid, and small fish.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Longnose Sawshark",
+        "src": "./images/Blue-Hole-Medium-Depth/Longnose-Sawshark.png",
+        "size": "210cm",
+        "location": "50-150m",
+        "description": "A sawshark usually found off the coast of Australia. It uses the sharp teeth on its saw-like snout to slash and eat crustaceans or fish.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Atlantic Anglerfish",
+        "src": "./images/Blue-Hole-Medium-Depth/Atlantic-Anglerfish.png",
+        "size": "65cm",
+        "location": "Stalactite Cave",
+        "description": "It uses the ray on its head to lure smaller fish and eat them. It will eat mostly anything it comes across in the depths and has very soft flesh despite its ugly appearance.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Sally Lightfoot Crab",
+        "src": "./images/Blue-Hole-Medium-Depth/Sally-Lightfoot-Crab.png",
+        "size": "50cm",
+        "location": "Shipwreck Interior",
+        "description": "It lives on the Pacific coasts of Mexico to northern Peru. It is very deft and can even jump. It devours everything, plant or animal.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Black Tiger Shrimp",
+        "src": "./images/Blue-Hole-Medium-Depth/Black-Tiger-Shrimp.png",
+        "size": "8cm",
+        "location": "Shipwreck Interior",
+        "description": "Widely reared in Southeast Asia, it is approximately 30 cm long. Thanks to its savory flavor, it is a popular food ingredient.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Smooth Hammerhead",
+        "src": "./images/Blue-Hole-Medium-Depth/Smooth-Hammerhead.png",
+        "size": "280cm",
+        "location": "Shipwreck Interior",
+        "description": "It has a head that looks like a hammer. Its head contains sensory organs so its detection ability is excellent.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
+        "fish": "Sailfish",
+        "src": "./images/Blue-Hole-Medium-Depth/Sailfish.png",
+        "size": "285cm",
+        "location": "Shipwreck Interior",
+        "description": "The sailfish looks like a marlin, but its dorsal fin resembles a sail. It can swim up to speed of 110km/h and inhabits tropical and temperate oceans.",
+        "category": "Blue Hole Medium Depth"
+    },
+    {
         "fish": "",
-        "src": "./images/Blue-Hole-Shallows/.png",
+        "src": "./images/Blue-Hole-Medium-Depth/.png",
         "size": "",
-        "location": "0m-50m",
+        "location": "50-150m",
         "description": "",
-        "category": "Blue Hole Shallows"
+        "category": "Blue Hole Medium Depth"
     }
 ]
