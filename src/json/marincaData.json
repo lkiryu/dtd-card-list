@@ -1008,11 +1008,99 @@
         "category": "Glacier Zone"
     },
     {
+        "fish": "Waptia Fieldensis",
+        "src": "./images/HydroThermal-Vents/Waptia-Fieldensis.png",
+        "size": "7cm",
+        "location": "HydroThermal Vents",
+        "description": "An ancient arthropod that lived during the mid-Cambrian period. Its head is protected by a thick plate and it can grow up to about 7 cm.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Pikaia",
+        "src": "./images/HydroThermal-Vents/Pikaia.png",
+        "size": "16cm",
+        "location": "HydroThermal Vents",
+        "description": "An ancient fish that resembled a contemporary eel. It is called the ancestor of the vertebrates.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Allenypterus",
+        "src": "./images/HydroThermal-Vents/Allenypterus.png",
+        "size": "17cm",
+        "location": "HydroThermal Vents",
+        "description": "An ancient fish featuring a small tail and side stripes. It is known to grow up to a size of 15 cm.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Qingmendous",
+        "src": "./images/HydroThermal-Vents/Qingmedous.png",
+        "size": "33cm",
+        "location": "HydroThermal Vents",
+        "description": "Coelacanth-like ancient fish that lived 400 million years ago. They are known to be the ancestor of fish species that came up to the land from the sea.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Falcatus",
+        "src": "./images/HydroThermal-Vents/Falcatus.png",
+        "size": "25cm",
+        "location": "HydroThermal Vents",
+        "description": "A carnivorous fish thought to inhabit the coastal waters of North America in the past. Males had prominent fin spines that curve anteriorly over the head.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Drepanaspis",
+        "src": "./images/HydroThermal-Vents/Drepanaspis.png",
+        "size": "100cm",
+        "location": "HydroThermal Vents",
+        "description": "Drepanaspis is characterized by its single pair of swimming fins and heavily armored ray-like body, and lack of jaws. It is thought to grow up to 30 cm.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Dunkleosteus",
+        "src": "./images/HydroThermal-Vents/Dunkleosteus.png",
+        "size": "400cm",
+        "location": "HydroThermal Vents",
+        "description": "Placoderms lived in the primeval oceans of North America, Europe, and North Africa. They are thought to grow up to about 10 meters long and weigh up to 4 tons.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Megalograptus",
+        "src": "./images/HydroThermal-Vents/Megalograptus.png",
+        "size": "100cm",
+        "location": "Divine Tree Control Room",
+        "description": "Megalograptus was an aquatic arthropod that lived from Late Ordovician to Katian. Its body was covered with a thick layer of armor and its forelegs were covered with sharp barbs.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Xenacanthus",
+        "src": "./images/HydroThermal-Vents/Xenacanthus.png",
+        "size": "200cm",
+        "location": "HydroThermal Vents",
+        "description": "An ancient fish species that is believed to have inhabited many parts of the world. It has elongated fins and is characterized by sharp venom spines on the back of its head.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Arandaspis",
+        "src": "./images/HydroThermal-Vents/Arandaspis.png",
+        "size": "20cm",
+        "location": "HydroThermal Vents",
+        "description": "An ancient jawless fish. The name means 'Aranda's shield.' A bony plate covers its head and the front half of its body. It is thought to be the predecessor of armored fish.",
+        "category": "HydroThermal Vents"
+    },
+    {
+        "fish": "Coelacanth",
+        "src": "./images/HydroThermal-Vents/Coelacanth.png",
+        "size": "150cm",
+        "location": "HydroThermal Vents",
+        "description": "An ancient species of deep-sea fish with 8 fins and hard scales. It measures 1-2m. Many similar species lived all over the world in the Paleozoic and Mesozoic eras, but only two such species are left at present in the underwater caves near islands in Coromos and the depths of the Celebes Sea.",
+        "category": "HydroThermal Vents"
+    },
+    {
         "fish": "",
-        "src": "./images/Glacier-Zone/.png",
+        "src": "./images/HydroThermal-Vents/.png",
         "size": "",
-        "location": "Glacier Area",
+        "location": "HydroThermal Vents",
         "description": "",
-        "category": "Glacier Zone"
+        "category": "HydroThermal Vents"
     }
 ]
