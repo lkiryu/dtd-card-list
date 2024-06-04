@@ -808,11 +808,211 @@
         "category": "Nocturnal"
     },
     {
+        "fish": "Peacock Squid",
+        "src": "./images/Glacier-Passage/Peacock-Squid.png",
+        "size": "25cm",
+        "location": "Glacier Passage",
+        "description": "The peacock squid, as its name suggests, has long and fabulous tentacles that look like the feathers of a peacock. One can see its organs clearly as the squid has transparent skin.",
+        "category": "Glacier Passage"
+    },
+    {
+        "fish": "Dumbo Octopus",
+        "src": "./images/Glacier-Passage/Dumbo-Octopus.png",
+        "size": "43cm",
+        "location": "Glacier Passage",
+        "description": "The dumbo octopus inhabits deep and cold waters and has ear-like swimming fins. Its name comes from these fins that make the octopus look like Dumbo, the baby elephant.",
+        "category": "Glacier Passage"
+    },
+    {
+        "fish": "Barreleye",
+        "src": "./images/Glacier-Passage/Barreleye.png",
+        "size": "15cm",
+        "location": "Glacier Passage",
+        "description": "A small deep-sea fish. It has big, spherical eyes inside its transparent skin.",
+        "category": "Glacier Passage"
+    },
+    {
+        "fish": "Blobfish",
+        "src": "./images/Glacier-Passage/Blobfish.png",
+        "size": "60cm",
+        "location": "Glacier Passage",
+        "description": "The blobfish has almost no muscle and has a jelly-like body that can freely adjust its density to control buoyancy. It has been chosen as the ugliest creature in the world.",
+        "category": "Glacier Passage"
+    },
+    {
+        "fish": "Vampire Squid",
+        "src": "./images/Glacier-Passage/Vampire-Squid.png",
+        "size": "62cm",
+        "location": "Glacier Passage",
+        "description": "The vampire squid looks like a vampire, but it merely consumes organic matter floating in the deep sea. It can generate a special light that disrupts the equilibrium of the prey.",
+        "category": "Glacier Passage"
+    },
+    {
+        "fish": "Pelican Eel",
+        "src": "./images/Glacier-Passage/Pelican-Eel.png",
+        "size": "100cm",
+        "location": "Glacier Passage",
+        "description": "The pelican eel is commonly found in warm waters of the world where the water is deep. It can swallow prey larger than itself, as its mouth is bigger than its body.",
+        "category": "Glacier Passage"
+    },
+    {
+        "fish": "Arctic Cod",
+        "src": "./images/Glacier-Zone/Arctic-Cod.png",
+        "size": "45cm",
+        "location": "Glacier Area",
+        "description": "It is commonly found in the Arctic Ocean at depths of 0-900 meters. Its main diet is plankton and krill.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Gelatinous Snailfish",
+        "src": "./images/Glacier-Zone/Gelatinous-Snailfish.png",
+        "size": "20cm",
+        "location": "Glacier Area",
+        "description": "The gelatinous Snailfish inhabits the Antarctic Ocean at a depth of up to 300 meters. It has dark stripes on its body and normally swims at the bottom of the sea.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Antarctic Octopus",
+        "src": "./images/Glacier-Zone/Antarctic-Octopus.png",
+        "size": "75cm",
+        "location": "Glacier Area",
+        "description": "It has blue blood and lives in the Antarctic Ocean. It can survive in warmer oceans as well.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Greenland Shark",
+        "src": "./images/Glacier-Zone/Greenland-Shark.png",
+        "size": "670cm",
+        "location": "Glacier Area",
+        "description": "The Greenland shark inhabits the coldest waters among the sharks. It grows very slowly, at a rate of 1 cm a year and it takes about 150 years to become an adult.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Polar Eelpout",
+        "src": "./images/Glacier-Zone/Polar-Eelpout.png",
+        "size": "30cm",
+        "location": "Glacier Area",
+        "description": "It inhabits the coastal waters of the Arctic Ocean. It has short and hard barbs along its dorsal fin.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Porbeagle Shark",
+        "src": "./images/Glacier-Zone/Porbeagle-Shark.png",
+        "size": "400cm",
+        "location": "Glacier Area",
+        "description": "The porbeagle shark grows up to 6 meters, but the average length is 3 meters. It is known to attack swimmers and divers.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Ice Fish",
+        "src": "./images/Glacier-Zone/Ice-Fish.png",
+        "size": "52cm",
+        "location": "Glacier Area",
+        "description": "The ice fish has transparent skin due to low hemoglobin in its blood. It has a rather large heart compared to its body.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Capelin",
+        "src": "./images/Glacier-Zone/Capelin.png",
+        "size": "23cm",
+        "location": "Glacier Area",
+        "description": "A member of Osmeridae, the capelin is a rather small fish. It begins reproducing 2-6 years after birth. Males have a high mortality rate after spawning.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Narwhal",
+        "src": "./images/Glacier-Zone/Narwhal.png",
+        "size": "300cm",
+        "location": "Glacier Area",
+        "description": "The narwhal has a long tusk that can take up half the length of its body. Stories say that swindlers sold the fang of a narwhal as 'the horn of a unicorn' in the past.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Haddock",
+        "src": "./images/Glacier-Zone/Haddock.png",
+        "size": "95cm",
+        "location": "Glacier Area",
+        "description": "The haddock is a beautiful fish with a snow-white belly, purple back, and silver-grey sides.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Starry Skate",
+        "src": "./images/Glacier-Zone/Starry-Skate.png",
+        "size": "120cm",
+        "location": "Glacier Area",
+        "description": "It has 27 thorns from the ventral to the dorsal fins. The thorns can also be found in the middle and both sides of its tail.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Arctic Telescope Fish",
+        "src": "./images/Glacier-Zone/Arctic-Telescope-Fish.png",
+        "size": "20cm",
+        "location": "First Glacial Cave",
+        "description": "A fish that lives in the polar deep sea. It is characterized by its telescopic eyes that have developed the ability to search for food in dark spaces.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Alaska Pollock",
+        "src": "./images/Glacier-Zone/Alaska-Pollock.png",
+        "size": "70cm",
+        "location": "First Glacial Cave",
+        "description": "A fish widely distributed in Alaska and the Arctic Ocean. With its mottled appearance, it blends in well into its surrounding environment and hidden well from the sight of predators.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Lumpfish",
+        "src": "./images/Glacier-Zone/Lumpfish.png",
+        "size": "60cm",
+        "location": "Third Glacial Cave",
+        "description": "A fish with no scales, a leathery surface, and a bumpy body surface. It can be found near the Arctic Ocean and is a popular substitute for caviar.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Snub-nosed Spiny Eel",
+        "src": "./images/Glacier-Zone/Snub-nosed-Spiny-Eel.png",
+        "size": "120cm",
+        "location": "Third Glacial Cave",
+        "description": "A type of eel that lives in the deep waters of the polar regions. It is characterized by its up to 12 small hard spines on its back",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Golden King Crab",
+        "src": "./images/Glacier-Zone/Golden-King-Crab.png",
+        "size": "180cm",
+        "location": "Glacier Area",
+        "description": "Mainly found in cold waters such as Alaska. It is characterized by a golden shell composed mainly of calcium and its spines on the back.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Southern Right Whale Dolphin",
+        "src": "./images/Glacier-Zone/Southern-Right-Whale-Dolphin.png",
+        "size": "220cm",
+        "location": "Glacier Area",
+        "description": "The southern right whale dolphin, found in cold waters of the southern hemisphere, has a black, sleek back and white belly.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Bathynomus",
+        "src": "./images/Glacier-Zone/Bathynomus.png",
+        "size": "50cm",
+        "location": "First Glacial Cave",
+        "description": "One of the larger isopods, growing up to a length of 50 cm. This scavenger is known for its good appetite.",
+        "category": "Glacier Zone"
+    },
+    {
+        "fish": "Lion's Mane Jellyfish",
+        "src": "./images/Glacier-Zone/Lion's-Mane-Jellyfish.png",
+        "size": "3000cm",
+        "location": "Glacier Area",
+        "description": "As the second largest jellyfish known to date, the big ones of this species can grow up to 37 meters. Unlike its terrible appearance, its venom is not so potent.",
+        "category": "Glacier Zone"
+    },
+    {
         "fish": "",
-        "src": "./images/Nocturnal/.png",
+        "src": "./images/Glacier-Zone/.png",
         "size": "",
-        "location": "0-50cm",
+        "location": "Glacier Area",
         "description": "",
-        "category": "Nocturnal"
+        "category": "Glacier Zone"
     }
 ]
