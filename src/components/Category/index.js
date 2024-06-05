@@ -1,5 +1,23 @@
 import React from "react"
+import marincaData from "../../json/marincaData.json"
 import styles from "./category.module.css"
+
+export const categories = [
+  "Blue Hole Shallows",
+  "Blue Hole Medium Depth",
+  "Blue Hole Depths",
+  "Nocturnal",
+  "Glacier Passage",
+  "Glacier Zone",
+  "HydroThermal Vents",
+  "Seahorse",
+  "Crab Trap",
+]
+
+export function filterCategory(index) {
+  return marincaData.filter((marinca) => marinca.category === categories[index])
+}
+
 
 const Category = (props) => {
     return(
