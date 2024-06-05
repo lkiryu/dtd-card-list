@@ -691,7 +691,7 @@
         "fish": "Clearfin Lionfish",
         "src": "./images/Nocturnal/Clearfin-Lionfish.png",
         "size": "25cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "A nocturnal species that primarily hunts crabs and shrimps. It has 12 to 13 long venomous spines on its dorsal fin, and unlike the lionfish, it lacks stripes on its spines.",
         "category": "Nocturnal"
     },
@@ -699,7 +699,7 @@
         "fish": "Longspine Squirrelfish",
         "src": "./images/Nocturnal/Longspine-Squirrelfish.png",
         "size": "20cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "A pelagic species that forms schools and is found in the Indian-Pacific region and near tropical areas. It primarily inhabits coastal rocky areas and mainly feeds on crustaceans.",
         "category": "Nocturnal"
     },
@@ -707,7 +707,7 @@
         "fish": "Longspine Porcupinefish",
         "src": "./images/Nocturnal/Longspine-Porcupinefish.png",
         "size": "60cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "Inhabits coral reefs in tropical and subtropical oceans around the world, and can grow up to 60cm. It secretes powerful toxin substances from its spines to protect itself.",
         "category": "Nocturnal"
     },
@@ -715,7 +715,7 @@
         "fish": "Box Jellyfish",
         "src": "./images/Nocturnal/Box-Jellyfish.png",
         "size": "100cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "This jellyfish is actually not classified as a jellyfish. It has a poison so strong that it's referred to as a 'sea wasp.' It has eyes and will sometimes chase after prey.",
         "category": "Nocturnal"
     },
@@ -723,7 +723,7 @@
         "fish": "Moray Eel",
         "src": "./images/Nocturnal/Moray-Eel.png",
         "size": "100cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "Has a long, slender body with a wide, thin tail. Its entire body is covered with a thick, scale-less, armor-like hide. Most of its body can hide between rocks, with its head barely peeking out, on the lookout for prey.",
         "category": "Nocturnal"
     },
@@ -731,7 +731,7 @@
         "fish": "Blacktip Reefshark",
         "src": "./images/Nocturnal/Blacktip-Reefshark.png",
         "size": "150cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "The blacktip reefshark has clear black spotting and its fins and snout. It dwells at shallow depths and sometimes hunts in groups.",
         "category": "Nocturnal"
     },
@@ -739,7 +739,7 @@
         "fish": "Copper Shark",
         "src": "./images/Nocturnal/Copper-Shark.png",
         "size": "230cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "The copper shark is one of the most common man-eating sharks with a long, round snout. It grows up to 3m and is found in the Pacific and Indian Oceans.",
         "category": "Nocturnal"
     },
@@ -747,7 +747,7 @@
         "fish": "Zebra Shark",
         "src": "./images/Nocturnal/Zebra-Shark.png",
         "size": "240cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "The zebra shark has zebra-like stripes when it is young but they become spots as it grows. This nocturnal shark can commonly be found in the tropical Indo-Pacific region at depths of 0-60 meters.",
         "category": "Nocturnal"
     },
@@ -755,7 +755,7 @@
         "fish": "White Shrimp",
         "src": "./images/Nocturnal/White-Shrimp.png",
         "size": "8cm",
-        "location": "0-130cm",
+        "location": "0-130m",
         "description": "The white shrimp has a light grey body and a pair of long antennae. An adult white shrimp may be as long as 10 cm in length (or even longer). It is commonly found in the coastal areas of the Gulf of Mexico and the South Atlantic Ocean.",
         "category": "Nocturnal"
     },
@@ -763,7 +763,7 @@
         "fish": "Blackfin Barracuda",
         "src": "./images/Nocturnal/Blackfin-Barracuda.png",
         "size": "140cm",
-        "location": "50-130cm",
+        "location": "50-130m",
         "description": "Has around 20 gleaming stripes that stretch from its back to below its lateral line. The top half of each stripe is slanted, with the lower half of each stripe becoming perpendicular to the body. Its dark caudal fin has a black rear edge.",
         "category": "Nocturnal"
     },
@@ -771,7 +771,7 @@
         "fish": "Spear Squid",
         "src": "./images/Nocturnal/Spear-Squid.png",
         "size": "20cm",
-        "location": "50-130cm",
+        "location": "50-130m",
         "description": "A carnivorous mollusk with an elongated cone shape. The legs are usually in the pouch and extend when catching prey.",
         "category": "Nocturnal"
     },
@@ -779,7 +779,7 @@
         "fish": "Humboldt Squid",
         "src": "./images/Nocturnal/Humboldt-Squid.png",
         "size": "220cm",
-        "location": "50-130cm",
+        "location": "50-130m",
         "description": "The Humboldt squid inhabits the Pacific Coast. It can grow as big as 2 meters in length. Its suckers have sharp claws. This aggressive fish is known to prey on its own members.",
         "category": "Nocturnal"
     },
@@ -787,7 +787,7 @@
         "fish": "Devil Scorpionfish",
         "src": "./images/Nocturnal/Devil-Scorpionfish.png",
         "size": "30cm",
-        "location": "50-130cm",
+        "location": "50-130m",
         "description": "One of the most dangerous fish with its potent venom. Hiding in the environment, it quickly snatches anything that comes close to it.",
         "category": "Nocturnal"
     },
@@ -795,7 +795,7 @@
         "fish": "Manta Ray",
         "src": "./images/Nocturnal/Manta-Ray.png",
         "size": "400cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "This is the largest species of stingray, and is a long-distance pelagic fish. Due to its gentle nature, it mainly feeds on plankton.",
         "category": "Nocturnal"
     },
@@ -803,7 +803,7 @@
         "fish": "Red-Lipped Batfish",
         "src": "./images/Nocturnal/Red-Lipped-Batfish.png",
         "size": "40cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "This fish has red lips and lures prey by waggling its nose-like dorsal fin. It is not a good swimmer and is known to walk the bottom of the sea using its fins. If it has to swim, it will use the fins like the hind legs of a frog.",
         "category": "Nocturnal"
     },
@@ -1096,11 +1096,147 @@
         "category": "HydroThermal Vents"
     },
     {
-        "fish": "",
-        "src": "./images/HydroThermal-Vents/.png",
-        "size": "",
+        "fish": "White Seahorse",
+        "src": "./images/Seahorse/White-Seahorse.png",
+        "size": "16cm",
+        "location": "130-250m",
+        "description": "A cute and small Seahorse born in a specific color. Very popular as a pet. White is considered a very rare variant.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Big-Belly Seahorse",
+        "src": "./images/Seahorse/Big-Belly-Seahorse.png",
+        "size": "35cm",
+        "location": "0-50m",
+        "description": "The biggest Seahorse, it grows up to 18-35cm. Its beautiful coloration and body give it much visual appeal and popularity.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Crowned Seahorse",
+        "src": "./images/Seahorse/Crowned-Seahorse.png",
+        "size": "10cm",
+        "location": "130-250m",
+        "description": "This Seahorse seems to be wearing a crown on its head. It is small (6-10.5cm) and seldom breeds, and not much information is available yet.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Dwarf Seahorse",
+        "src": "./images/Seahorse/Dwarf-Seahorse.png",
+        "size": "5cm",
+        "location": "50-130m",
+        "description": "As the name suggests, this is a very small Seahorse (maximum size 5cm). It has spotted skin like a dwarf and is covered with black spots and warts.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Giraffe Seahorse",
+        "src": "./images/Seahorse/Giraffe-Seahorse.png",
+        "size": "10cm",
+        "location": "50-130m",
+        "description": "This Seahorse grows up to 10cm and isn't as large as a giraffe, contrary to its name. It is short, but patterned like a giraffe at least.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Hedgehog Seahorse",
+        "src": "./images/Seahorse/Hedgehog-Seahorse.png",
+        "size": "10cm",
+        "location": "50-130m",
+        "description": "A Seahorse with spines like a hedgehog. It loses its spines as it matures.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Jayakar's Seahorse",
+        "src": "./images/Seahorse/Jayakar's-Seahorse.png",
+        "size": "14cm",
+        "location": "0-50m",
+        "description": "This Seahorse grows up to 14cm and lives among seaweed, marine plants, and rocks. It hides itself expertly.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Lined Seahorse",
+        "src": "./images/Seahorse/Lined-Seahorse.png",
+        "size": "17cm",
+        "location": "130-250m",
+        "description": "It's also called the northern or spotted seahorse. It can be found anywhere between northern Canada and Venezuela in Latin America.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Long-Snouted Seahorse",
+        "src": "./images/Seahorse/Long-Snouted-Seahorse.png",
+        "size": "21cm",
+        "location": "0-50m",
+        "description": "This Seahorse grows up to 12-21.5cm. It is slim with a long tail",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Pacific Seahorse",
+        "src": "./images/Seahorse/Pacific-Seahorse.png",
+        "size": "19cm",
+        "location": "0-50cm",
+        "description": "This Seahorse is the only one found in the eastern Pacific. It is sized 12-19cm, but larger entities have been found.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Spotted Seahorse",
+        "src": "./images/Seahorse/Spotted-Seahorse.png",
+        "size": "30cm",
+        "location": "130-250m",
+        "description": "Also known as the yellow seahorse. As you can see, black ones also exist.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Tiger-Tail Seahorse",
+        "src": "./images/Seahorse/Tiger-Tail-Seahorse.png",
+        "size": "18cm",
+        "location": "50-130m",
+        "description": "Grows up to 18.5cm, with a tail resembling that of a tiger. It is not aggressive, however.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Zebra Seahorse",
+        "src": "./images/Seahorse/Zebra-Seahorse.png",
+        "size": "15cm",
+        "location": "Stalactite Cave",
+        "description": "This swift-looking Seahorse resembles a zebra. It grows up to 11-15cm and is currently an endangered species.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Spiny Seahorse",
+        "src": "./images/Seahorse/Spiny-Seahorse.png",
+        "size": "17cm",
+        "location": "50-130m",
+        "description": "This Seahorse has many thorns on its body and grows up to 15-17cm. It can be found anywhere in the Pacific and Indian Oceans.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Weedy Seadragon",
+        "src": "./images/Seahorse/Weedy-Seadragon.png",
+        "size": "43cm",
+        "location": "Glacier Area",
+        "description": "Lives in the Indian Ocean and off the coast of Australia. It is difficult to distinguish from seaweed when seen in rock crevices. Grows to a maximum of 45 cm, and its tail is not curled, making it a distinct species from seahorses.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Leafy Seadragon",
+        "src": "./images/Seahorse/Leafy-Seadragon.png",
+        "size": "35cm",
+        "location": "Glacier Area",
+        "description": "A species that only lives in some parts of Australia. Its body has grass-like fins, making it easily camouflaged. It hides in the grass and feeds on small plankton.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "Ruby Seadragon",
+        "src": "./images/Seahorse/Ruby-Seadragon.png",
+        "size": "24cm",
         "location": "HydroThermal Vents",
+        "description": "A very rare species of sea dragon that lives in the deep sea. The entire body is red, making it stand out from other species.",
+        "category": "Seahorse"
+    },
+    {
+        "fish": "",
+        "src": "./images/Seahorse/.png",
+        "size": "",
+        "location": "",
         "description": "",
-        "category": "HydroThermal Vents"
+        "category": "Seahorse"
     }
 ]
