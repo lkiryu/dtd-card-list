@@ -1,6 +1,6 @@
 import React from "react";
-import Category, {categories, filterCategory} from "./components/category";
-import Card from "./components/card";
+import Category, {categories, filterCategory} from "./components/Category";
+import Card from "./components/Card";
 import "./App.css"
 
 function App() {

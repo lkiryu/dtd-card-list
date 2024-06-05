@@ -1,6 +1,6 @@
 import React from "react"
 import marincaData from "../../json/marincaData.json"
-import styles from "./category.module.css"
+import styles from "./Category.module.css"
 
 export const categories = [
   "Blue Hole Shallows",
