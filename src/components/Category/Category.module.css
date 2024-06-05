@@ -5,11 +5,14 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 60px 0;
+    max-width: 1400px;
 }
 
 .category h2 {
     font-family: "Inter", sans-serif;
     color: hsl(47, 100%, 58%);
+    margin-bottom: 20px;
 }
 
 .category .cards{
