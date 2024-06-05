@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/dtd-card-list/static/css/main.290b266d.css",
+    "main.js": "/dtd-card-list/static/js/main.1000c930.js",
+    "static/media/desktop-bg.png": "/dtd-card-list/static/media/desktop-bg.c3244d6b1094d8395d8b.png",
+    "index.html": "/dtd-card-list/index.html",
+    "main.290b266d.css.map": "/dtd-card-list/static/css/main.290b266d.css.map",
+    "main.1000c930.js.map": "/dtd-card-list/static/js/main.1000c930.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.290b266d.css",
+    "static/js/main.1000c930.js"
+  ]
+}
