@@ -1171,7 +1171,7 @@
         "fish": "Pacific Seahorse",
         "src": "./images/Seahorse/Pacific-Seahorse.png",
         "size": "19cm",
-        "location": "0-50cm",
+        "location": "0-50m",
         "description": "This Seahorse is the only one found in the eastern Pacific. It is sized 12-19cm, but larger entities have been found.",
         "category": "Seahorse"
     },
@@ -1232,11 +1232,123 @@
         "category": "Seahorse"
     },
     {
-        "fish": "",
-        "src": "./images/Seahorse/.png",
-        "size": "",
-        "location": "",
-        "description": "",
-        "category": "Seahorse"
+        "fish": "Red-Banded Lobster",
+        "src": "./images/Crab-Trap/Red-Banded-Lobster.png",
+        "size": "6cm",
+        "location": "0-50m",
+        "description": "A type of lobster that lives in the Pacific region. It has relatively small pincers for a crayfish and has a light orange color throughout its body. There are 4 distinct red band patterns on its legs.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "American Lobster",
+        "src": "./images/Crab-Trap/American-Lobster.png",
+        "size": "25cm",
+        "location": "0-50m",
+        "description": "It is mainly found along the North American Atlantic coast and is known as the heaviest and longest species in the world. It primarily has a brownish body and inhabits the rocky areas of cold seas at depths of up to 40 meters.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Blue Lobster",
+        "src": "./images/Crab-Trap/Blue-Lobster.png",
+        "size": "30cm",
+        "location": "0-50m",
+        "description": "An American lobster crayfish with a blue body due to lack of pigment. It occurs with a probability of 1 in 2 million and is considered to bring luck due to its rarity.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "European Lobster",
+        "src": "./images/Crab-Trap/European-Lobster.png",
+        "size": "23cm",
+        "location": "0-50m",
+        "description": "A lobster that can be found at depths of up to 150 meters throughout the northern Atlantic Ocean and west of the Mediterranean Ocean. Its shell is mainly blue, and its belly is yellow or white.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "California Spiny Lobster",
+        "src": "./images/Crab-Trap/California-Spiny-Lobster.png",
+        "size": "30cm",
+        "location": "50-130m",
+        "description": "A type of spiny lobster found in the Pacific Ocean. Unlike common lobster species, it does not have large claws, but has two small hook-like claws.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Fan Lobster",
+        "src": "./images/Crab-Trap/Fan-Lobster.png",
+        "size": "15cm",
+        "location": "50-130m",
+        "description": "It is characterized by having a deformed head like a fan, and inhabits soft sea beds like sand or mud on the continental shelf. It's nocturnal, using its shovel-like modified appendages to dig into the ground and hide during the day.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Tropical Rock Lobster",
+        "src": "./images/Crab-Trap/Tropical-Rock-Lobster.png",
+        "size": "11cm",
+        "location": "50-130m",
+        "description": "A lobster that can be found in shallow seas with depths of 50m or less. It lives throughout the Pacific Ocean of Australia and India. Its shell is of a turquoise color, and it has stripes of various colors all over its body.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Crystal Lobster",
+        "src": "./images/Crab-Trap/Crystal-Lobster.png",
+        "size": "25cm",
+        "location": "50-130m",
+        "description": "A type of American Lobster that has a translucent white body due to albinism. It occurs with a probability of 1 in 100 million and is the rarest lobster in existence.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Norway Lobster",
+        "src": "./images/Crab-Trap/Norway-Lobster.png",
+        "size": "15cm",
+        "location": "130-250m",
+        "description": "It is characterized by a slender appearance as a whole, including the claws. It is sensitive to light and is active in the dark.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Eastern Rock Lobster",
+        "src": "./images/Crab-Trap/Eastern-Rock-Lobster.png",
+        "size": "30cm",
+        "location": "130-250m",
+        "description": "A lobster mainly found in the southeast of Australia and the northern seas of New Zealand. It has even been discovered at depths of up to 200 meters. It is known as one of the longest crustaceans, along with the American Lobster.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Snow Crab",
+        "src": "./images/Crab-Trap/Snow-Crab.png",
+        "size": "15cm",
+        "location": "Glacier Area",
+        "description": "It inhabits the cold waters of the northernmost regions of the Pacific and Atlantic Oceans, including the Arctic Ocean. It feeds on clams, small crustaceans, and performs the role of underwater cleaner by consuming organic matter.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Horsehair Crab",
+        "src": "./images/Crab-Trap/Horsehair-Crab.png",
+        "size": "13cm",
+        "location": "Glacier Area",
+        "description": "It inhabits the underwater mud and sandy bottoms of the North Pacific, including the Okhotsk Sea and the Bering Sea. It is characterized by soft spines covering the hard shell.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Dollocaris Ingens",
+        "src": "./images/Crab-Trap/Dollocaris-Ingens.png",
+        "size": "8cm",
+        "location": "HydroThermal Vents",
+        "description": "An arthropod with large compound eyes that lived in the Jurassic era. It has a rigid shell like a crab, and three pairs of legs. It likely caught and fed on small organisms at the seabed or ambushed its prey.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Tokummia Katalepsis",
+        "src": "./images/Crab-Trap/Tokummia-Katalepsis.png",
+        "size": "10cm",
+        "location": "HydroThermal Vents",
+        "description": "An arthropod presumed to have lived during the Cambrian period. It has 50 legs, 2 pincers, and little eyes near its antennas. It is 10cm long and lived in the bottom of tropical oceans.",
+        "category": "Crab Trap"
+    },
+    {
+        "fish": "Anomalocaris",
+        "src": "./images/Crab-Trap/Anomalocaris.png",
+        "size": "30cm",
+        "location": "Divine Tree Control Room",
+        "description": "Young Panarthropoda that used to live in the oceans during the Cambrian period of the Paleozoic era. It is thought to swim like a cuttlefish or ray by waving its side fins.",
+        "category": "Crab Trap"
     }
 ]
